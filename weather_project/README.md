@@ -31,7 +31,7 @@ It fetches weather data using OpenWeatherMap API.
 - Python
 - Django
 
-## Installation
+## Installation 
 
 1. Clone the repository.
 2. Navigate to the project directory.
